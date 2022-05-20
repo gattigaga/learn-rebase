@@ -1,3 +1,3 @@
 # Learn Rebase
 
-I try to learn rebase.
+I try to learn rebase. This is important.
